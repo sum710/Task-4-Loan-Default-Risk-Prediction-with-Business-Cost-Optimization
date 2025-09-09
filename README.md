@@ -7,7 +7,7 @@ Predict loan default likelihood and minimize business costs with threshold optim
 
 ## 🛠️ Approach
 - Clean and preprocess data
-- Train Logistic Regression & CatBoost models
+- Train Logistic Regression & XgBoost models
 - Define business cost for false positives & negatives
 - Adjust decision threshold to minimize cost
 
