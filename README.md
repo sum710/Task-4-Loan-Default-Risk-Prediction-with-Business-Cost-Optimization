@@ -13,4 +13,4 @@ Predict loan default likelihood and minimize business costs with threshold optim
 
 ## 📊 Results & Insights
 - Business cost significantly reduced after threshold tuning
-- CatBoost provided better feature importance insights
+- XgBoost provided better feature importance insights
